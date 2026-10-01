@@ -5,5 +5,4 @@ seaborn
 scikit-learn
 kagglehub
 tensorflow
-keras
-joblib
+
